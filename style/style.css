@@ -1,0 +1,100 @@
+.my-fs{
+    font-size: 0.6rem;
+}
+.my-h{
+    height: 130px;
+}
+.my-bg{
+    background-color: #1E202B;
+}
+.find-location {
+    width: 100%;
+    padding: 20px 50px 20px 20px;
+    background: #1e202b;
+    color: white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    height: 57px;
+
+    margin-bottom: 70px;
+
+}
+form input{
+    outline: none;
+    border: none;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+}
+.my-btn{
+    bottom: 5px;
+    
+    top: 5px;
+}
+.my-bg-2{
+    background-image: url(../assets/banner.png);
+    background-position: center;
+    background-position-y: -20%;
+    background-repeat: no-repeat;
+}
+.forecast  .forecast-header {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+    font-weight: 400;
+}
+.my-m{
+    transform: translateY(90%);
+    -webkit-transform: translateY(90%);
+    -moz-transform: translateY(90%);
+    -ms-transform: translateY(90%);
+    -o-transform: translateY(90%);
+}
+.text-m{
+    color: rgba(0, 0, 0, 0.007);
+}
+.my-bord{
+    border-top-left-radius: 10px;
+}
+.my-footer-bg{
+    background-color: #262936;
+}
+.my-bg-3{
+
+    background-color: #323544;
+
+}
+.my-bord-2{
+    border-top-right-radius: 10px;
+}
+.my-bg-4{
+    background-color: #222530;
+}
+.my-bg-4-2{
+    background-color: #262936;
+}
+.forecast-bg{
+    background-color: #1E202B;
+}
+
+.forecast-header{
+    width: 372px;
+    height: 24px;
+}
+.forecast-body{
+    width: 372px;
+    height: 120px;
+}
+#today-forecast, #tomorrow-forecast, #day3-forecast {
+    white-space: pre-line;
+}
+
+.my-bord-3{
+    border-top-right-radius:  50px;
+    border-bottom-right-radius:  50px;
+    border-bottom-left-radius:  50px;
+    border-top-left-radius:  50px;
+}
